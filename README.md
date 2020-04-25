@@ -6,7 +6,7 @@ GNU General Public License v3.0
 ## 功能简述
 1. 禁言
 ## 使用方法
-0. 首先，请知悉这个插件仅支持基于[momocow/node-cq-websocket]((https://github.com/momocow/node-cq-websocket)的项目。
+0. 首先，请知悉这个插件仅支持基于[momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket)的项目。
 1. 修改tsconfig.json,运行```npm run build```编译成你使用的Node.js支持的ECMAScript版本，或者直接使用编译好的ES6版(bite.js)
 2. 将bite.js放入任何你想要放的地方
 3. 参照以下代码初始化：
