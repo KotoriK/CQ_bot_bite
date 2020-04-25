@@ -11,7 +11,7 @@ GNU General Public License v3.0
 2. 将bite.js放入任何你想要放的地方
 3. 参照以下代码初始化：
 ```javascript
-import Bite from './bite';//在头部加入这条，引号内是相对路径
+import {Bite} from './bite';//在头部加入这条，引号内是相对路径
 import config from './config'
 //在初始化阶段引入
 const bot = new CQWebSocket()
